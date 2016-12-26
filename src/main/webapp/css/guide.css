@@ -1,0 +1,41 @@
+#page-wrapper {
+	background-color: #fff;
+	padding: 46px 0 0 0;
+}
+/* 技巧指导列表 */
+.guide {
+	width: 960px;
+	height: auto;
+	margin: 20px auto;
+	overflow: hidden;
+}
+
+.guide ul,.guide li {
+	display:block;
+	float:left;
+	list-style:none;
+}
+.guide li{
+	width: 240px;
+}
+.guide .guide_detail {
+	float: left;
+	width: 224px;
+	padding: 9px;
+	border: 1px solid #eeeeee;
+	margin-bottom:20px;
+}
+
+.guide .guide_detail:hover {
+	border: 1px solid #3388ff;
+}
+
+.guide .guide_detail_img {
+	cursor: pointer;
+}
+
+.guide .guide_detail_title {
+	margin: 10px 0 10px 0;
+}
+
+

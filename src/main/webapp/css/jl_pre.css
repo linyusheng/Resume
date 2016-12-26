@@ -1,0 +1,32 @@
+*{padding: 0px;margin: 0px;}
+body{background: #F2F4F8;font-family: 'Microsoft YaHei';}
+/*.nav{background: #3388ff;position: fixed;width: 100%;z-index: 100;}
+.nav>ul{width: 783px;margin: 0 auto;position: relative;}
+.nav>ul>li{float: left;list-style: none;width: 87px;text-align: center;line-height: 48px;height: 48px;}
+.nav>ul>li>a{display: block;color: #fff;text-decoration: none;}
+.nav>ul>li>a:hover{background-color:#1b8f8b}
+.nav .tool_box{position:absolute;right: -54px;bottom: -230px;z-index: 104;}
+.nav .tool_box li{list-style: none;margin-bottom: 10px;}
+.nav .tool_box li a{display: block;background: #5FD5D1;padding: 3px;}
+.nav .tool_box li a img{border: none}
+.nav .tool_box li a:hover{background:#3388ff;}*/
+.tool_bar{width: 100%;height: 54px;background: #2D2A2A;opacity:0.7;position: fixed;z-index: 20;bottom: 0;text-align: center;}
+/*.jl_down{width: 105px;height: 35px;line-height: 35px;background: #fff;border-radius: 5px;color: #3388ff;margin: 8px auto;}*/
+.jl_down{width: 105px;height: 35px;line-height: 35px;background: #fff;border-radius: 5px;color: #3388ff;position: fixed;bottom: 10px;z-index: 20;left: 46%;text-align: center;cursor: pointer;}
+.jl_down:hover{color: #fff;background: #3388ff}
+.jl_wrapper{width: 792px;margin: 0 auto;font-size: 13px;border:1px solid #EFEFEF;background: #fff;padding: 15px 15px;padding-top: 50px;position: relative;}
+.base_info{position: relative;}
+.base_info tr{height:30px;line-height:30px;font-size:15px;}
+.base_info h3{font-size: 26px;text-align: center;font-weight: normal;letter-spacing: 10px;}
+.gray{color: #999;font-weight: normal;padding: 0px;font-size: 13px;}
+.title{font-size: 16px;font-weight:bold;color:rgb(51, 51, 51);border-bottom: 1px solid #2CCDC8;;display:block;height: 40px;line-height: 50px;}
+table {margin: 6px 0px;border-bottom: 1px solid #eee;}
+table td{vertical-align:top;line-height: 29px;}
+.info_1 tr{height: 20px;}
+.td_1{width: 125px;}
+.info_1 .td_2{width: 445px;}
+.info_1 .td_3{width: 150px;}
+.info_2 .td_2{width: 270px;}
+.info_2 .td_3{width: 155px;}
+.info_2 .td_4{text-align: right;width: 160px;}
+.info_3 .td_2{width:595px;}
